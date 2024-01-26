@@ -34,4 +34,4 @@ Description of the project goes here:
 
 ## License
 
-MIT License
+[MIT License](./LICENSE)
